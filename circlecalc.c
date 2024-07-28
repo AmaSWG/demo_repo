@@ -2,10 +2,6 @@
 
 int main(){
 
-    //Apparently just calculating is too much work
-
-    //As if typing all this bs isn't
-
     const double PI = 3.14159;
     double radius;
 
