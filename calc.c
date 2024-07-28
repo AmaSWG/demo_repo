@@ -2,6 +2,8 @@
 
 int main(){
 
+    //this is a very basic calculator
+
     char operator;
     double num1;
     double num2;
