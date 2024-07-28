@@ -3,7 +3,7 @@
 
 int main(){
 
-    #What the hell is this even for
+    //What the hell is this even for
 
     double A;
     double B;
